@@ -1,0 +1,4 @@
+Deny from all
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^localhost/Lahad$
+RewriteRule (.*) http://localhost/Lahad/login

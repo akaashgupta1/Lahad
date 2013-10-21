@@ -1,0 +1,6 @@
+insert into users values ('Harikrishna','Vethanarian','bigFatBastard@lahad.com','abcde', 1);
+insert into users values ('Akaash','Gupta','admin@lahad.com','abcde', 1);
+insert into users values ('Aravindhan','Duraiswamy','co_admin@lahad.com','abcde', 1);
+insert into users values ('Le Khac','Minh Tri','alex@lahad.com','abcde', 1);
+insert into users values ('Dinesh','Thangavel','leader@lahad.com','abcde', 1);
+insert into users values ('Stephane','Bressan','user@gmail.com','iamstupid', 0);

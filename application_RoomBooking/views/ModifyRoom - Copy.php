@@ -1,0 +1,16 @@
+<form action = "http://localhost/Lahad/admin/modifyRoom" method = "post">
+Details of Hotel to be modified : </br> </br>
+<input name = "old_room_number" placeholder = "Room Number" /> </br> </br>
+<input name = "old_hotel_city" placeholder = "City" /> </br> </br>
+<input name = "old_hotel_pincode" placeholder = "Pincode" /> </br> </br>
+
+New Details of the Hotel [leave attributes blank to retain values] : </br> </br>
+<input name = "room_number" placeholder = "Room Number" /> </br> </br>
+<input name = "hotel_city" placeholder = "City" /> </br> </br>
+<input name = "hotel_pincode" placeholder = "Pincode" /> </br> </br>
+<input name = "type" placeholder = "Type" /> </br> </br>
+<input name = "isAvailable" placeholder = "Availability" /> </br> </br>
+<input name = "cost" placeholder = "Rent" /> </br> </br>
+<input type = "submit" value = "Change" />
+
+</form>
